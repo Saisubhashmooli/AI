@@ -1,8 +1,8 @@
-# Data Science - Data Science is the current reigning technology that has conquered industries around the world. It has brought about a fourth industrial revolution in the world today.
+# **Data Science** - Data Science is the current reigning technology that has conquered industries around the world. It has brought about a fourth industrial revolution in the world today.
 
 This a result of the contribution by the massive explosion in data and the growing need of the industries to rely on data to create better products. We have become a part of a data-driven society. Data has become a dire need for industries that need data to make careful decisions.
 
-## AI - Artificial Intelligence is the intelligence that is possessed by the machines. It is modeled after the natural intelligence that is possessed by animals and humans. Artificial Intelligence makes the use of algorithms to perform autonomous actions.
+## **AI** - Artificial Intelligence is the intelligence that is possessed by the machines. It is modeled after the natural intelligence that is possessed by animals and humans. Artificial Intelligence makes the use of algorithms to perform autonomous actions.
 
 These autonomous actions are similar to the ones performed in the past which were successful.
 
@@ -10,10 +10,10 @@ Many traditional Artificial Intelligence algorithms were explicitly provided goa
 
 Artificial Intelligence also makes use of several software engineering principles for developing solutions to existing problems.
 
-## Machine Learning - Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+## **Machine Learning** - Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 
-## Deep Learning - Deep learning is a machine learning technique that is inspired by the way a human brain filters information, it is basically learning from examples. It helps a computer model to filter the input data through layers to predict and classify information. Since deep learning processes information in a similar manner as a human brain does, it is mostly used in applications that people generally do. It is the key technology behind driver-less cars, that enables them to recognize a stop sign and to distinguish between a pedestrian and lamp post. Most of the deep learning methods use neural network architectures, so they are often referred to as deep neural networks. 
+## **Deep Learning** - Deep learning is a machine learning technique that is inspired by the way a human brain filters information, it is basically learning from examples. It helps a computer model to filter the input data through layers to predict and classify information. Since deep learning processes information in a similar manner as a human brain does, it is mostly used in applications that people generally do. It is the key technology behind driver-less cars, that enables them to recognize a stop sign and to distinguish between a pedestrian and lamp post. Most of the deep learning methods use neural network architectures, so they are often referred to as deep neural networks. 
 
 ### **ANN** - Artificial neural network (ANN) is a computational model that consists of several processing elements that receive inputs and deliver outputs based on their predefined activation functions
 
