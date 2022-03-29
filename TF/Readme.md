@@ -45,7 +45,8 @@ TensorFlow is an open-source end-to-end platform for creating Machine Learning a
 
 Currently, the most famous deep learning library in the world is Google’s TensorFlow. Google product uses machine learning in all of its products to improve the search engine, translation, image captioning or recommendations.
 
-## **Pytorch** - PyTorch is an open source machine learning (ML) framework based on the Python programming language and the Torch library. It is one of the preferred platforms for deep learning research. The framework is built to speed up the process between research prototyping and deployment.
+## **Pytorch**
+PyTorch is an open source machine learning (ML) framework based on the Python programming language and the Torch library. It is one of the preferred platforms for deep learning research. The framework is built to speed up the process between research prototyping and deployment.
 
 ## **OpenCV** - Open-Source Computer Vision
 OpenCV stands for Open-Source Computer Vision (Library). It is the most commonly used, popular, and well-documented Computer Vision library. It is open-source, which means that one does not require a license to utilize the software
