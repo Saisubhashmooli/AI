@@ -1,8 +1,8 @@
-# **Data Science** - Data Science is the current reigning technology that has conquered industries around the world. It has brought about a fourth industrial revolution in the world today.
+#**Data Science** - Data Science is the current reigning technology that has conquered industries around the world. It has brought about a fourth industrial revolution in the world today.
 
 This a result of the contribution by the massive explosion in data and the growing need of the industries to rely on data to create better products. We have become a part of a data-driven society. Data has become a dire need for industries that need data to make careful decisions.
 
-## **AI** - Artificial Intelligence is the intelligence that is possessed by the machines. It is modeled after the natural intelligence that is possessed by animals and humans. Artificial Intelligence makes the use of algorithms to perform autonomous actions.
+##**AI** - Artificial Intelligence is the intelligence that is possessed by the machines. It is modeled after the natural intelligence that is possessed by animals and humans. Artificial Intelligence makes the use of algorithms to perform autonomous actions.
 
 These autonomous actions are similar to the ones performed in the past which were successful.
 
