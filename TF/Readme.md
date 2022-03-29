@@ -1,8 +1,3 @@
-# **Data Science**
-Data Science is the current reigning technology that has conquered industries around the world. It has brought about a fourth industrial revolution in the world today.
-
-This a result of the contribution by the massive explosion in data and the growing need of the industries to rely on data to create better products. We have become a part of a data-driven society. Data has become a dire need for industries that need data to make careful decisions.
-
 ## **Artificial Intelligence** 
 Artificial Intelligence is the intelligence that is possessed by the machines. It is modeled after the natural intelligence that is possessed by animals and humans. Artificial Intelligence makes the use of algorithms to perform autonomous actions.
 
@@ -44,9 +39,6 @@ Natural language processing (NLP) refers to the branch of computer science—and
 TensorFlow is an open-source end-to-end platform for creating Machine Learning applications. It is a symbolic math library that uses dataflow and differentiable programming to perform various tasks focused on training and inference of deep neural networks. It allows developers to create machine learning applications using various tools, libraries, and community resources.
 
 Currently, the most famous deep learning library in the world is Google’s TensorFlow. Google product uses machine learning in all of its products to improve the search engine, translation, image captioning or recommendations.
-
-## **Pytorch**
-PyTorch is an open source machine learning (ML) framework based on the Python programming language and the Torch library. It is one of the preferred platforms for deep learning research. The framework is built to speed up the process between research prototyping and deployment.
 
 ## **OpenCV** - Open-Source Computer Vision
 OpenCV stands for Open-Source Computer Vision (Library). It is the most commonly used, popular, and well-documented Computer Vision library. It is open-source, which means that one does not require a license to utilize the software
